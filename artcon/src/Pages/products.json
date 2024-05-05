@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Mud Pots",
+      "description": "Mud pots can be utilized for therapeutic purposes due to their mineral-rich mud, offering benefits such as natural skin exfoliation, improved circulation, and relief from certain skin conditions",
+      "image": "./products/product1.jpg",
+      "price": "Rs.299"
+    },
+    {
+      "name": "Basket",
+      "description": "A wooden basket, handcrafted with intricate detail, perfect for adding rustic charm to any home decor or organizing essentials with natural elegance.",
+      "image": "./products/product2.jpg",
+      "price": "Rs.499"
+    },
+    {
+      "name": "Thanjavur toys",
+      "description": "Originating from the town of Thanjavur in Tamil Nadu, These Toys are known for their vibrant colors and craftsmanship, cherished for their artistic value and historical significance.",
+      "image": "./products/product3.jpg",
+      "price": "Rs.199"
+    },
+    {
+      "name": "Handmade toys",
+      "description": "Meticulously crafted handmade wooden toys, designed to inspire creativity and foster developmental skills in children while supporting artisan craftsmanship.",
+      "image": "./products/product4.jpg",
+      "price": "Rs.250"
+    },
+    {
+      "name": "Wooden basket",
+      "description": "A wooden basket, crafted with intricately woven strips of wood, provides both rustic charm and practical functionality for storage and decor",
+      "image": "./products/product5.jpg",
+      "price": "Rs.320"
+    },
+    {
+      "name": "Bamboo cups",
+      "description": "Bamboo cups, eco-friendly alternatives to traditional plastic or glassware, offer a sustainable and biodegradable option for enjoying beverages while also promoting environmental conservation.",
+      "image": "./products/product6.jpg",
+      "price": "Rs.150"
+    },
+    {
+      "name": "Handmade bags",
+      "description": "Crafted by skilled artisans using traditional techniques and high-quality materials, individuality, and a touch of cultural heritage",
+      "image": "./products/product7.jpg",
+      "price": "300"
+    },
+    {
+      "name": "Hanging chairs",
+      "description": "Hanging chairs are like swings for sitting. They're comfy and fun seats that hang from ropes or chains, giving you a cozy spot to relax indoors or outdoors.",
+      "image": "./products/product8.jpg",
+      "price": "Rs.2299"
+    },
+    {
+      "name": "Stands",
+      "description": "Wooden stands are sturdy structures made from wood, often used to hold or display various items such as books, or electronic devices, providing both functional support and a natural aesthetic to any space.",
+      "image": "./products/product9.jpg",
+      "price": "Rs.299"
+    },
+    {
+      "name": "Toys",
+      "description": "Wooden traditional statues are carved sculptures made from wood that depict figures from culture or religion. They are crafted by hand and are important symbols of tradition and artistry.",
+      "image": "./products/product10.jpg",
+      "price": "Rs.180"
+    }
+]
